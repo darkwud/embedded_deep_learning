@@ -1,0 +1,24 @@
+# Model weights
+*.pth
+weights/
+
+# Dataset
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp/generated files
+*_small.png
+generate_report.py
+
+# Reports
+*.docx
+*.pdf
+
+# OS files
+.DS_Store
+
+# Claude Code
+.claude/
